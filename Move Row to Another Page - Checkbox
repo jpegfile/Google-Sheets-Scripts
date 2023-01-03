@@ -13,4 +13,4 @@ function sendToOther(event) {
   }
 }
 
-This will move a done task to another sheet called "Completed". Done requirement is a checkbox. When TRUE, the row will be moved to "Completed".
+//This will move a done task to another sheet called "Completed". Done requirement is a checkbox. When TRUE, the row will be moved to "Completed".
